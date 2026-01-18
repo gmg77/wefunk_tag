@@ -8,6 +8,8 @@ Prerequisites
 * JSON file see https://github.com/gmg77/wefunk_pl
 * Python
 * mutagen library
+* mp3 see https://github.com/evanslynk/wefunkdownloader
+  
 
 Quickstart
 --------------
