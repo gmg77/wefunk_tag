@@ -14,7 +14,7 @@ Prerequisites
 Quickstart
 --------------
 1. Script will read the JSON file containing all the show data.
-2. Scan a sub directory named ```mp3s``` for matching files (based on the filename structure frome wefunkradio.com)
+2. Scan a sub directory named ```mp3s``` for matching files (based on the filename structure from wefunkradio.com)
 3. Format the show information (DJs, description, playlist) into a readable text block and write that text block into the ID3 tag of the MP3 file.
 4. If Cue file exists incorporate timestamps via chapters ID3 tag
 5. output txt file work summary
