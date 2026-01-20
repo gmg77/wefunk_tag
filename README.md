@@ -21,9 +21,13 @@ Quickstart
 5. output txt file work summary
 6. output nfo file for each mp3
 
-```pip install mutagen```
+```
+pip install mutagen
+```
 
-```python wefunktag.py```
+```
+python wefunktag.py
+```
 
 select JSON file at prompt
 
