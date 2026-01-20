@@ -9,6 +9,7 @@ Prerequisites
 * Python
 * mutagen library
 * mp3 see https://github.com/evanslynk/wefunkdownloader
+* optional CUE https://github.com/gmg77/wefunk_cue
   
 
 Quickstart
